@@ -51,9 +51,5 @@ Make sure to **watch** the repository to get notified about updates and new comp
 ### 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-### Additional Tips:
-- Replace `path-to-image-X.jpg` with the actual path to images you want to include in the README. You can upload your images to the repository and link them accordingly, or use an external image hosting service.
-- Feel free to customize the content based on your repository's unique features.
 
