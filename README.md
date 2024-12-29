@@ -32,14 +32,14 @@ Stay tuned for even more components in the future! We’ll continue to add new f
 
 Here are some images showcasing the components you can find in this repository:
 
-![Component 1](path-to-image-1.jpg)  
-*Example of a beautiful button component.*
+![Login page](assets/bestlogin.jpg)  
+*Example of a beautiful Login page.*
 
-![Component 2](path-to-image-2.jpg)  
-*Example of a customizable card layout.*
+![Fitness Project](assets/food.jpg)  
+*Example of a customizable card layout in the fitness page.*
 
-![Component 3](path-to-image-3.jpg)  
-*Another unique Flutter component to enhance your UI.*
+![Smart Home ](assets/smarthome.jpg)  
+*Another unique Flutter component to enhance your UI, Home ui and functionality.*
 
 ---
 
